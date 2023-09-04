@@ -1,8 +1,8 @@
 /* ROOT COLOR */
 :root {
     --primary-font: 'Roboto', sans-serif;
-    --Iris: #ff9900;
-    --OCEAN: #e67800;
+    --Iris: #4D5AE5;
+    --OCEAN: #4D5AE5;
     --NAVY-BLUE: #2e2f42;
     --GREEN: #31d0aa;
     --SLATE: #434455;
@@ -22,9 +22,9 @@
     --primary-grey-color: #434455;
     --primary-black-color: #2e2f42;
     --primary-white-color: #fff;
-    --active-link-color: #e67800;
+    --active-link-color: #4D5AE5;
     --primary-grey-second-color: #f4f4fd;
-    --primary-blue-color: #ff9900;
+    --primary-blue-color: #4D5AE5;
     --color-border-button: #e7e9fc;
     --grey-icon-color: #8e8f99;
     --primary-font-size: 16px;
