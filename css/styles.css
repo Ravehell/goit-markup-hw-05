@@ -439,8 +439,8 @@ header>.container {
 .team-social-icons {}
 
 
-/**
-  |============================
+
+  
  
 .footer-social-link {
     display: flex;
@@ -460,8 +460,8 @@ header>.container {
 }
 
 .footer-social-icons {}
-  |============================
-*/
+ 
+
 
 
 /* Customers section */
@@ -596,7 +596,7 @@ header>.container {
 
 .portfolio-list-img {}
 
-/* .overlay {
+ .overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -610,7 +610,7 @@ header>.container {
     flex-shrink: 0;
     background-color: var(--iris);
     padding: 40px 32px;
-} */
+} 
 
 .portfolio-list-link:hover .overlay-text,
 .portfolio-list-link:focus .overlay-text {
@@ -991,7 +991,7 @@ header>.container {
     transform: translateX(-16px) translateY(-50%);
 }
 
-/* .error,
+ .error,
 .success {
     transform-origin: center;
     transform: scale(0.2);
@@ -1007,7 +1007,7 @@ header>.container {
 .modal-form-input:not(:placeholder-shown):valid:required~.modal-form-info .success {
     opacity: 1;
     transform: scale(1);
-} */
+} 
 
 .form-agrement-container {
     margin-bottom: 24px;
@@ -1038,20 +1038,20 @@ header>.container {
     transition: background-color var(--transition), border var(--transition), fill var(--transition);
 }
 
-/* input[type="checkbox"]:checked + .agreement-checkbox {
+ input[type="checkbox"]:checked + .agreement-checkbox {
     background-color: var(--ocean);
     border: var(--ocean);
     fill: var(--cloud);
-} */
+} 
 input:checked+label>span {
     background-color: var(--ocean);
     border: none;
     fill: var(--cloud);
 }
 
-/* input[type="checkbox"]:focus+.agreement-checkbox {
+ input[type="checkbox"]:focus+.agreement-checkbox {
     border-color: var(--ocean);
-} */
+} 
 
 input:hover+label>span {
     border-color: var(--ocean);
@@ -1092,17 +1092,15 @@ input:hover+label>span {
 
 }
 
-/* .modal-form-btn:disabled {
+ .modal-form-btn:disabled {
   background-color: #4c4c4c;
   color: white;
   cursor: not-allowed;
-} */
-/**
-  |============================
-  | Ver 2
-  |============================
-*/
-/* .modal-form-agreement {
+} 
+
+  
+
+ .modal-form-agreement {
   display: flex;
   align-items: center;
   gap: 12px;
@@ -1126,4 +1124,4 @@ input:hover+label>span {
   border-color: transparent;
   background-color: var(--accent-cl);
   background-size: 10px;
-} */
+} 
